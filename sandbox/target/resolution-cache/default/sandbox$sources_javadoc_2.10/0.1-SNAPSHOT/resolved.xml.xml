@@ -4,7 +4,7 @@
 		module="sandbox$sources_javadoc_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170323204340"
+		publication="20170327222548"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

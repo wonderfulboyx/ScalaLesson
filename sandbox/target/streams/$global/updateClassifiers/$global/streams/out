@@ -397,7 +397,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(doc)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 152ms :: artifacts dl 107ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 794ms :: artifacts dl 77ms[0m
 [0m[[0mdebug[0m] [0m	report for default#sandbox$sources_javadoc_2.10;0.1-SNAPSHOT compile produced in /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/resolution-cache/reports/default-sandbox$sources_javadoc_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sandbox$sources_javadoc_2.10;0.1-SNAPSHOT runtime produced in /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/resolution-cache/reports/default-sandbox$sources_javadoc_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sandbox$sources_javadoc_2.10;0.1-SNAPSHOT test produced in /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/resolution-cache/reports/default-sandbox$sources_javadoc_2.10-test.xml[0m
@@ -411,4 +411,4 @@
 [0m[[0mdebug[0m] [0m	report for default#sandbox$sources_javadoc_2.10;0.1-SNAPSHOT docs produced in /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/resolution-cache/reports/default-sandbox$sources_javadoc_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sandbox$sources_javadoc_2.10;0.1-SNAPSHOT pom produced in /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/resolution-cache/reports/default-sandbox$sources_javadoc_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sandbox$sources_javadoc_2.10;0.1-SNAPSHOT scala-tool produced in /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/resolution-cache/reports/default-sandbox$sources_javadoc_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (152ms resolve - 107ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (794ms resolve - 77ms download)[0m
