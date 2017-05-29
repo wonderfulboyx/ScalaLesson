@@ -6,7 +6,7 @@ trait Greeter {
 }
 
 trait Robot {
-  // 自分型.
+  // 自分型
   // こうすることでGreeterのgreetを隠せる=インスタンスから呼べなくなる。
   self: Greeter =>
   def start(): Unit = greet()

@@ -1,4 +1,4 @@
 // build.sbt
-scalaVersion := "2.10.6"
+scalaVersion := "2.11.4"
 
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-Xlint")
