@@ -5,4 +5,4 @@ https://dwango.github.io/scala_text/
 
 Scala入門用にメモ
 
-/sandbox/src/main/scala/
+sandbox/src/main/scala/
