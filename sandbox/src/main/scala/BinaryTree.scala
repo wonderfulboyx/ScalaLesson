@@ -52,7 +52,7 @@ case object Empty extends Tree
 
 
 
-object HelloWorld {
+object BinaryTree {
   def max(tree: Tree): Int = tree match {
     case Branch(v, Empty, Empty) => v
     case Branch(v, left, Empty)=> {
