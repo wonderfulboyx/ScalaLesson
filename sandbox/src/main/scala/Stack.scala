@@ -24,3 +24,9 @@ case object EmptyStack extends Stack[Nothing] {
 object Stack {
   def apply(): Stack[Nothing] = EmptyStack
 }
+
+//val intStack: Stack[Int] = Stack()
+//  -> intStack: Stack[Int] = EmptyStack
+
+//val stringStack: Stack[String] = Stack()
+//  -> stringStack: Stack[String] = EmptyStack

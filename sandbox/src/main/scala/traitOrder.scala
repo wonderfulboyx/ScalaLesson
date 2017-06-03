@@ -25,7 +25,7 @@ trait traitB2 extends traitA {
 class traitC2 extends traitB2 {
   val foo = "Hello"
 
-  def printBar(): Unit = println(bar)
+  def printBar(): Unit = println()
 }
 
 object traitOder {

@@ -1,50 +1,23 @@
-[0m[[0mdebug[0m] [0m[naha] Invalidating /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar: stamp changed from lastModified(1485187082000) to lastModified(1494039098000)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/GreetRobot.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Cell.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/typeParameter$Stack$1.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/GreetRobot$HelloGreeter$1.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitB$class.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/NonEmptyStack.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/EmptyStack$.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/coPair.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/HelloWorld.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/typeParameter$.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitB2.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitB.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitB2$class.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Stack.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitA.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitOder$.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Robot$class.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/GreetRobot$.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitC.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/GreetRobot$$anon$1.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/GreetRobot$$anon$2.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitOder.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Stack$.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/GreetRobot$HelloGreeter$1$class.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Robot2.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/typeParameter$ShowablePair$1.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/EmptyStack.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/typeParameter$Show$1.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/traitC2.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Robot2$class.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/HelloWorld$.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/typeParameter.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Greeter.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/GreetRobot.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Pair.class, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes/Robot.class)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set(/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/GreetRobot.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m[naha] 	product: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/GreetRobot.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/typeParameter.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/Stack.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/traitOrder.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/GreetRobot.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/typeParameter.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/Stack.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/traitOrder.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/GreetRobot.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/typeParameter.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/Stack.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/traitOrder.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/GreetRobot.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/typeParameter.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/Stack.scala, /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/traitOrder.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 6 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 6 Scala sources to /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.11.4[0m
-[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.11.4. Compiling...[0m
-[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.4  with arguments: [0m
-[0m[[0mdebug[0m] [0m	-nowarn[0m
-[0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_6340ef3c[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/wonderfulboyx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/wonderfulboyx/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.15/xsbti/interface-0.13.15.jar:/tmp/sbt_16c0dbc1/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.15-sources.jar:/home/wonderfulboyx/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.4.jar:/home/wonderfulboyx/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.4.jar:/home/wonderfulboyx/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/wonderfulboyx/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/home/wonderfulboyx/.ivy2/cache/jline/jline/jars/jline-2.12.jar[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/API.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/Analyzer.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/Command.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/Compat.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/CompilerInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/ConsoleInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/DelegatingReporter.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/Dependency.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/ExtractAPI.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/ExtractUsedNames.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/GlobalHelpers.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/LocateClassFile.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/Log.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/Message.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_4ea63e6b/xsbt/ScaladocInterface.scala[0m
-[0m[[0minfo[0m] [0m  Compilation completed in 11.941 s[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.11.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 299c0284, interfacing (CompilerInterface) with Scala compiler version 2.11.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 49d27b7b, interfacing (CompilerInterface) with Scala compiler version 2.11.4[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-deprecation[0m
 [0m[[0mdebug[0m] [0m	-feature[0m
@@ -54,7 +27,19 @@
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/wonderfulboyx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/target/scala-2.11/classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 19.675465113 s[0m
+[0m[[33mwarn[0m] [0m/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala:56: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following input: Empty[0m
+[0m[[33mwarn[0m] [0m  def max(tree: Tree): Int = tree match {[0m
+[0m[[33mwarn[0m] [0m                             ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.092585343 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/wonderfulboyx/Dropbox/projects/ScalaLesson/sandbox/src/main/scala/HelloWorld.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	depth.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
