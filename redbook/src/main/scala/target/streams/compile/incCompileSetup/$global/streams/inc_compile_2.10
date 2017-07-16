@@ -19,16 +19,43 @@ name hashing:
 1 items
 0 -> true
 products:
-5 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1$$anonfun$apply$1.class
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1.class
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$uncurry$1.class
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$.class
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main.class
+28 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Cons$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Cons.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$append2$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$length$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$product2$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$sum2$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$sum3$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Nil$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Nil.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/None$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/None.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$map2$1$$anonfun$apply$2.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$map2$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$variance$1$$anonfun$apply$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$variance$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$class.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Some$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Some.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$compose$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1$$anonfun$apply$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$uncurry$1.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$.class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main.class
 binary dependencies:
-2 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+6 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -46,85 +73,309 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-5 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> main
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> main$
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> main$$anonfun$curry$1
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> main$$anonfun$curry$1$$anonfun$apply$1
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> main$$anonfun$uncurry$1
+28 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Cons
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Cons$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List$$anonfun$append2$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List$$anonfun$length$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List$$anonfun$product2$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List$$anonfun$sum2$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List$$anonfun$sum3$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Nil
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Nil$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> None
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> None$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option$$anonfun$map2$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option$$anonfun$map2$1$$anonfun$apply$2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option$$anonfun$variance$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option$$anonfun$variance$1$$anonfun$apply$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option$class
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Some
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Some$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main$
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main$$anonfun$compose$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main$$anonfun$curry$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main$$anonfun$curry$1$$anonfun$apply$1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main$$anonfun$uncurry$1
 used names:
-35 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> +
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> -
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> <init>
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> ==
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> >=
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> A
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Any
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> AnyRef
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Array
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> B
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Boolean
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> C
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Function1
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Function2
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Int
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Nothing
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Object
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Predef
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> String
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> Unit
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> _root_
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> a
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> apply
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> as
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> b
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> f
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> fib
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> length
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> loop
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> main
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> n
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> ordered
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> println
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> scala
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> unary_!
+191 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> &&
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> *
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> +
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> -
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> <init>
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> <repeated>
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> ==
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> A
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Any
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> AnyRef
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> B
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Boolean
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Cons
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Double
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Function1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Function2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> IndexOutOfBoundsException
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Int
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Iterator
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> List
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> MatchError
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Nil
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> None
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Nothing
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Object
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Predef
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Product
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> ScalaRunTime
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Seq
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Serializable
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Some
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> String
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> T
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> T0
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> T1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> T2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> Tuple2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> _hashCode
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> _root_
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> _toString
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> a1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> a2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> annotation
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> append
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> apply
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> as
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> asInstanceOf
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> drop
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> dropWhile
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> ds
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> eq
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> error
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> f
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> foldLeft
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> foldRight
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> h
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> head
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> init
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> ints
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> isEmpty
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> isInstanceOf
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> l
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> n
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> ns
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> package
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> product
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> r
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> runtime
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> scala
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> sum
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> sys
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> t
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> tail
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> toString
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> typedProductIterator
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> x
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> xs
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> y
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> z
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> ||
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> &&
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> +
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> -
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> /
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> <byname>
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> <init>
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> ==
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> A
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Any
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> AnyRef
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> B
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Boolean
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> C
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> CanBuildFrom
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Coll
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Double
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> DoubleIsFractional
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Exception
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Function1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Function2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> IndexOutOfBoundsException
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Int
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Iterator
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> MatchError
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> None
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Nothing
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Numeric
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Object
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Option
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Predef
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Product
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> ScalaRunTime
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Seq
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Serializable
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> Some
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> String
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> T
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> T0
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> That
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> _hashCode
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> _root_
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> _toString
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> a
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> aa
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> apply
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> asInstanceOf
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> b
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> bb
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> canBuildFrom
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> collection
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> default
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> eq
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> f
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> flatMap
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> get
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> isEmpty
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> isInstanceOf
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> length
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> m
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> map
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> math
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> mean
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> ob
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> package
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> pow
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> runtime
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> scala
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> sum
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> toString
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> typedProductIterator
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> unary_!
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> x
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> xs
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> y
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> ||
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> +
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> -
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> <init>
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> ==
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> >=
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> A
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Any
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> AnyRef
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Array
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> B
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Boolean
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> C
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Function1
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Function2
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Int
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Nothing
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Object
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Predef
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> String
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> Unit
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> _root_
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> a
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> apply
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> as
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> b
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> f
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> fib
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> g
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> length
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> loop
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> main
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> n
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> ordered
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> println
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> scala
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> unary_!
 product stamps:
-5 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1$$anonfun$apply$1.class -> lastModified(1497839448000)
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1.class -> lastModified(1497839448000)
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$uncurry$1.class -> lastModified(1497839448000)
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$.class -> lastModified(1497839448000)
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main.class -> lastModified(1497839448000)
+28 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Cons$.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Cons.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$append2$1.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$length$1.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$product2$1.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$sum2$1.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$$anonfun$sum3$1.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List$.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/List.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Nil$.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Nil.class -> lastModified(1499605120000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/None$.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/None.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$map2$1$$anonfun$apply$2.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$map2$1.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$variance$1$$anonfun$apply$1.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$$anonfun$variance$1.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option$class.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Option.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Some$.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/Some.class -> lastModified(1499852879000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$compose$1.class -> lastModified(1497916660000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1$$anonfun$apply$1.class -> lastModified(1497916660000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$curry$1.class -> lastModified(1497916660000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$$anonfun$uncurry$1.class -> lastModified(1497916660000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main$.class -> lastModified(1497916660000)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/target/scala-2.10/classes/main.class -> lastModified(1497916660000)
 source stamps:
-1 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> hash(f4ea4cf4780f142f6c47f9704306cd8c1673998f)
+3 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> hash(e377c0f38cf399941d2ce99e131938f751726a13)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> hash(e8d0a48132853617a21e6e14bb0e20c7effd13ac)
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> hash(f6108d494f59b286442aa68455ab4b44632f7375)
 binary stamps:
 2 items
 /home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
 /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1494039098000)
 class names:
 2 items
-/home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Boolean
+/home/wonderfulboyx/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Serializable
 /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
 internal apis:
-1 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKbvXQgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdgKAX3QABm5vdGlmeXNxAH4ADNS5qyN0AANmaWJzcQB+AAzISadrdAAEd2FpdHNxAH4ADFdGwld0AA0kYXNJbnN0YW5jZU9mc3EAfgAMzZLdN3QACGlzU29ydGVkc3EAfgAM9QhFtnQABmVxdWFsc3NxAH4ADFMsU8p0AAd1bmN1cnJ5c3EAfgAM8RGfJnQADGFzSW5zdGFuY2VPZnNxAH4ADEddEVN0AAVjdXJyeXNxAH4ADAAQBvZ0AAxzeW5jaHJvbml6ZWRzcQB+AAxvpJrcdAANJGlzSW5zdGFuY2VPZnNxAH4ADI3iZTN0AARtYWluc3EAfgAMruDrBnQACW5vdGlmeUFsbHNxAH4ADIGB5610AAxpc0luc3RhbmNlT2ZzcQB+AAzjZ0wQdAACPT1zcQB+AAyiMG3KdAAFY2xvbmVzcQB+AAydLfFvdAAIdG9TdHJpbmdzcQB+AAzhSqzrdAACIT1zcQB+AAysMPOHdAAIZ2V0Q2xhc3NzcQB+AAyLBJkFdAACbmVzcQB+AAzPgEaUdAACZXFzcQB+AAwHSFgqdAACIyNzcQB+AAwm6SOIdAAIZmluYWxpemVzcQB+AAzCqlExdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBjc3EAfgBedXEAfgBCAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBIcQB+AFF1cQB+AFIAAAAAc3EAfgBUAHEAfgAldXEAfgBWAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Aa3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AWXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AclsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYnNxAH4AcXQABUFycmF5cQB+AHd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcXQABlN0cmluZ3NxAH4AdXNxAH4AeHVxAH4AewAAAANzcQB+AH10AARqYXZhc3EAfgB9dAAEbGFuZ3EAfgCCc3EAfgBedXEAfgBCAAAAAHNxAH4AXnVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVy+MDA8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT06kz0eA8UL2xH+XBDBs2MFnOZjw==
+3 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJ/s/7AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAxc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwRZ6p/nQABm5vdGlmeXNxAH4ADBaUmER0AANOaWxzcQB+AAwQTqIqdAAEd2FpdHNxAH4ADONM3N90AAlmb2xkUmlnaHRzcQB+AAytPKdXdAAOY29weSRkZWZhdWx0JDJzcQB+AAwjiH+BdAANJGFzSW5zdGFuY2VPZnNxAH4ADBzqjv10AAlkcm9wV2hpbGVzcQB+AAy/i0SVdAAMcHJvZHVjdEFyaXR5c3EAfgAM/FIVQnQABmVxdWFsc3NxAH4ADHcBdtN0AARoZWFkc3EAfgAMOnCShXQADGFzSW5zdGFuY2VPZnNxAH4ADDy1CyV0AAxzeW5jaHJvbml6ZWRzcQB+AAy4QZczdAANJGlzSW5zdGFuY2VPZnNxAH4ADIpUd1R0AARzdW0yc3EAfgAMQh456nQACGNhbkVxdWFsc3EAfgAMoIlVg3QABHRhaWxzcQB+AAzScPYldAAEc3VtM3NxAH4ADPj472F0AA1wcm9kdWN0UHJlZml4c3EAfgAMnvRmMHQABENvbnNzcQB+AAwioO6ndAAJbm90aWZ5QWxsc3EAfgAM7hewQXQABGRyb3BzcQB+AAyUEJ0ZdAAMaXNJbnN0YW5jZU9mc3EAfgAM2mzBVHQABjxpbml0PnNxAH4ADMoLKvZ0AAVhcHBseXNxAH4ADIbx6BZ0AAI9PXNxAH4ADI7gPVh0AAVjbG9uZXNxAH4ADFN9/uJ0AAYkaW5pdCRzcQB+AAwaL+AFdAAIcHJvZHVjdDJzcQB+AAwGPIZrdAAEY29weXNxAH4ADHUckMl0AAh0b1N0cmluZ3NxAH4ADNnoYjZ0AAZsZW5ndGhzcQB+AAzp7wkCdAACIT1zcQB+AAyijXQSdAAIZ2V0Q2xhc3NzcQB+AAwSougSdAAOY29weSRkZWZhdWx0JDFzcQB+AAy/rxvhdAAETGlzdHNxAH4ADA0J3Ax0AAhmb2xkTGVmdHNxAH4ADOkcYWd0AAJuZXNxAH4ADIXd8JR0AARpbml0c3EAfgAMX340a3QAAmVxc3EAfgAM55Q3QHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNlGQX10AANzdW1zcQB+AAxL8TumdAACIyNzcQB+AAz+ElixdAAIZmluYWxpemVzcQB+AAwK2td5dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxro/KsdAAIaGFzaENvZGVzcQB+AAwJ/EFpdAAHcHJvZHVjdHNxAH4ADHSWHDV0AAdzZXRIZWFkc3EAfgAMoMKSfXQABmFwcGVuZHNxAH4ADBb6osB0AAdhcHBlbmQyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AeXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwCXEAfgBTdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AH5MAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgB7TAAKdXBwZXJCb3VuZHEAfgCLTAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgCEAAAAAHQABkxpc3QuQXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCSc3IADnhzYnRpLmFwaS5QYXR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
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dj6bAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwiLY6lXQABm5vdGlmeXNxAH4ADCloujR0AAR3YWl0c3EAfgAM0DCcpXQADSRhc0luc3RhbmNlT2ZzcQB+AAy5U0DydAAIdmFyaWFuY2VzcQB+AAyUQTU6dAADbWFwc3EAfgAMoHJgCXQADHByb2R1Y3RBcml0eXNxAH4ADEbfkVB0AAZlcXVhbHNzcQB+AAxbBCBCdAAMYXNJbnN0YW5jZU9mc3EAfgAMqVsODnQADHN5bmNocm9uaXplZHNxAH4ADLjMs350AApmYWlsaW5nRm4yc3EAfgAMFMrVy3QADSRpc0luc3RhbmNlT2ZzcQB+AAx5nzMCdAAEbWVhbnNxAH4ADHBWKMR0AAhjYW5FcXVhbHNxAH4ADMiy55h0AA1wcm9kdWN0UHJlZml4c3EAfgAMN4EQPXQABm9yRWxzZXNxAH4ADM21VY90AAlub3RpZnlBbGxzcQB+AAw3/h2wdAAJZmFpbGluZ0Zuc3EAfgAMfdGAm3QADGlzSW5zdGFuY2VPZnNxAH4ADAomFUt0AAZmaWx0ZXJzcQB+AAw+mDmmdAAGPGluaXQ+c3EAfgAMm0T423QAB2ZsYXRNYXBzcQB+AAy5ArqAdAAJZ2V0T3JFbHNlc3EAfgAM39CGknQAAj09c3EAfgAMcEVcGnQABWNsb25lc3EAfgAMjRnwNXQABFNvbWVzcQB+AAyicFM7dAAGJGluaXQkc3EAfgAMUGeCHHQABk9wdGlvbnNxAH4ADOiOpcZ0AARjb3B5c3EAfgAMWbm9K3QABE5vbmVzcQB+AAzKX9ZEdAAIdG9TdHJpbmdzcQB+AAy67CGSdAACIT1zcQB+AAzwRtWwdAADZ2V0c3EAfgAMWc/2HHQACGdldENsYXNzc3EAfgAM1hCaSnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMcz4k2HQABG1hcDJzcQB+AAx90SDddAACbmVzcQB+AAxBxJRmdAACZXFzcQB+AAyW38pDdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMsG3XZXQAAiMjc3EAfgAMKzt0cnQACGZpbmFsaXplc3EAfgAMeUomZnQADnByb2R1Y3RFbGVtZW50c3EAfgAM6aU823QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aa3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwCXEAfgBDdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AHBMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBtTAAKdXBwZXJCb3VuZHEAfgB9TAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgB2AAAAAHQACE9wdGlvbi5Bc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB05vdGhpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJF1cQB+AHoAAAAAc3EAfgCCdAADQW55cQB+AIp+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAJQ292YXJpYW50fnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHEAfgCadAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AIRzcQB+AKJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aa0wACWluaGVyaXRlZHEAfgBrTAAHcGFyZW50c3EAfgBreHEAfgCFc3EAfgCidXEAfgBmAAAAAHNxAH4AonVxAH4AZgAAAABzcQB+AKJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4AgnQABk9iamVjdHNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAAEbGFuZ3EAfgCVc3EAfgCCcQB+AJhzcQB+AIhzcQB+AIt1cQB+AI4AAAACc3EAfgCQcQB+AJNxAH4AlXNxAH4AaHEAfgB1dXEAfgB2AAAAAHNxAH4AeABxAH4AP3VxAH4AegAAAAFzcQB+AHx1cQB+AHYAAAAAdAAGU29tZS5BcQB+AIZ1cQB+AHoAAAAAcQB+AJdxAH4Am35xAH4AnXQACENsYXNzRGVmdXEAfgCgAAAAAHNxAH4AonEAfgCmc3EAfgCic3EAfgCoc3EAfgCidXEAfgBmAAAAAHNxAH4AonVxAH4AZgAAAABzcQB+AKJ1cQB+AK8AAAAHc3EAfgCCdAAMU2VyaWFsaXphYmxlc3EAfgCIc3EAfgCLdXEAfgCOAAAAAnNxAH4AkHEAfgCTcQB+AJVzcQB+AIJxAH4A1HNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJBxAH4At3NxAH4AkHQAAmlvcQB+AJVzcQB+AIJ0AAdQcm9kdWN0cQB+ANVzcQB+AIJ0AAZFcXVhbHNxAH4A1XNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ag1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AhHNxAH4AgnQABk9wdGlvbnNxAH4AiHNxAH4Ai3VxAH4AjgAAAAFxAH4AlXVxAH4ArwAAAAFzcgAWeHNidGkuYXBpLlBhcmFtZXRlclJlZj/Y4zkALHOwAgABTAACaWRxAH4ADXhxAH4AhHEAfgDFc3EAfgCCcQB+ALJzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQcQB+ALdzcQB+AJBxAH4AuXEAfgCVc3EAfgCCcQB+AJhxAH4A1XNxAH4AaHEAfgB1dXEAfgB2AAAAAHNxAH4AeABxAH4AR3VxAH4AegAAAAB+cQB+AJ10AAZNb2R1bGV1cQB+AKAAAAAAc3EAfgCicQB+AKZzcQB+AKJzcQB+AKhzcQB+AKJ1cQB+AGYAAAAAc3EAfgCidXEAfgBmAAAAAHNxAH4AonVxAH4ArwAAAAdzcQB+AIJxAH4A1HNxAH4AiHNxAH4Ai3VxAH4AjgAAAAJzcQB+AJBxAH4Ak3EAfgCVc3EAfgCCcQB+ANRzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQcQB+ALdzcQB+AJB0AAJpb3EAfgCVc3EAfgCCcQB+AOFxAH4BB3NxAH4AgnQABkVxdWFsc3EAfgEHc3EAfgDkc3EAfgCCdAAGT3B0aW9uc3EAfgCIc3EAfgCLdXEAfgCOAAAAAXEAfgCVdXEAfgCvAAAAAXNxAH4AgnEAfgCHcQB+AQdzcQB+AIJxAH4AsnNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJBxAH4At3NxAH4AkHEAfgC5cQB+AJVzcQB+AIJxAH4AmHEAfgEHc3EAfgBocQB+AHV1cQB+AHYAAAAAc3EAfgB4AHQABk9wdGlvbnVxAH4AegAAAABxAH4A+nVxAH4AoAAAAABzcQB+AKJxAH4ApnNxAH4AonNxAH4AqHNxAH4AonVxAH4AZgAAAABzcQB+AKJ1cQB+AGYAAAAAc3EAfgCidXEAfgCvAAAAAnNxAH4AgnEAfgCyc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHEAfgC3c3EAfgCQcQB+ALlxAH4AlXNxAH4AgnEAfgCYc3EAfgCIc3EAfgCLdXEAfgCOAAAAAnNxAH4AkHEAfgCTcQB+AJV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXTYypmN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABhL2hvbWUvd29uZGVyZnVsYm95eC9Ecm9wYm94L3Byb2plY3RzL1NjYWxhTGVzc29uL3JlZGJvb2svc3JjL21haW4vc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOjQpIEyhTYXoh5uFLsOIMfv/ROs
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTW5oIwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdgKAX3QABm5vdGlmeXNxAH4ADNS5qyN0AANmaWJzcQB+AAzISadrdAAEd2FpdHNxAH4ADFdGwld0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1PfBW3QAB2NvbXBvc2VzcQB+AAzNkt03dAAIaXNTb3J0ZWRzcQB+AAz1CEW2dAAGZXF1YWxzc3EAfgAMUyxTynQAB3VuY3VycnlzcQB+AAzxEZ8mdAAMYXNJbnN0YW5jZU9mc3EAfgAMR10RU3QABWN1cnJ5c3EAfgAMABAG9nQADHN5bmNocm9uaXplZHNxAH4ADG+kmtx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMjeJlM3QABG1haW5zcQB+AAyu4OsGdAAJbm90aWZ5QWxsc3EAfgAMgYHnrXQADGlzSW5zdGFuY2VPZnNxAH4ADONnTBB0AAI9PXNxAH4ADKIwbcp0AAVjbG9uZXNxAH4ADJ0t8W90AAh0b1N0cmluZ3NxAH4ADOFKrOt0AAIhPXNxAH4ADKww84d0AAhnZXRDbGFzc3NxAH4ADIsEmQV0AAJuZXNxAH4ADM+ARpR0AAJlcXNxAH4ADAdIWCp0AAIjI3NxAH4ADCbpI4h0AAhmaW5hbGl6ZXNxAH4ADMKqUTF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AJ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGVzcQB+AGB1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+ACd1cQB+AFgAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIB1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBteHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBbdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB0WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBkc3EAfgBzdAAFQXJyYXlxAH4AeXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBzdAAGU3RyaW5nc3EAfgB3c3EAfgB6dXEAfgB9AAAAA3NxAH4Af3QABGphdmFzcQB+AH90AARsYW5ncQB+AIRzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXEAfgCYAAAAAnNxAH4Ac3QABk9iamVjdHEAfgCcc3EAfgBzdAADQW55cQB+AHl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMLKUNN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABhL2hvbWUvd29uZGVyZnVsYm95eC9Ecm9wYm94L3Byb2plY3RzL1NjYWxhTGVzc29uL3JlZGJvb2svc3JjL21haW4vc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPYQjUlPWbKGRCqmhFWrS0RjL3N1
 external apis:
 0 items
 source infos:
-1 items
-/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/main.scala -> 
+3 items
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/datastructure.scala -> 
+AAAAAAAAAAA=
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/error.scala -> 
+AAAAAAAAAAA=
+/home/wonderfulboyx/Dropbox/projects/ScalaLesson/redbook/src/main/scala/gettingstart.scala -> 
 AAAAAAAAAAA=
 compilations:
-9 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3mwQh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3qbkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3ta/F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3vXNN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3xO2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3y+Gt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3z++N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL4lbAN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
-8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL4wMDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+21 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3mwQh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3qbkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3ta/F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3vXNN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3xO2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3y+Gt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3z++N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL4lbAN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL4wMDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMAryWV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMLKUNN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMLuYjt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMhhAbF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMuBW5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM51nXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNBWAn11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNBX4d51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNCeaB51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNGkfCp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSduJA51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXTYypmN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9ob21lL3dvbmRlcmZ1bGJveXgvRHJvcGJveC9wcm9qZWN0cy9TY2FsYUxlc3Nvbi9yZWRib29rL3NyYy9tYWluL3NjYWxhL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
